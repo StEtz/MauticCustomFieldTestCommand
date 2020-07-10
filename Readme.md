@@ -21,8 +21,8 @@ This should output the list of available commands including this one:
   * mautic:campaigns:validate               Validate if a contact has been inactive for a decision and execute events if so.
   * mautic:citrix:sync                      Synchronizes registrant information from Citrix products
   * mautic:contacts:deduplicate             Merge contacts based on same unique identifiers
-  * <span style="color:blue"> **mautic:customfield:test                 Does a query with a filter for "customField = 5"**</style>
-  * mautic:email:fetch                      [mautic:emails:fetch] Fetch and process monitored email.
+  * <span style="color:blue"> **mautic:customfield:test                 Does a query with a filter for "customField = 5"**</span>
+  * mautic:email:fetch                      Fetch and process monitored email.
   * mautic:emails:send                      Processes SwiftMail's mail queue
   * mautic:import                           Imports data to Mautic
   * mautic:install:data                     Installs Mautic with sample data
